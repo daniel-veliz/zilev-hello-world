@@ -1,6 +1,6 @@
 {
   "name": "my-dependency-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mi primera dependencia en npm",
   "main": "src/index.js",
   "scripts": {
