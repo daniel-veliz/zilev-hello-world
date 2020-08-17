@@ -1,12 +1,20 @@
 {
-  "name": "zilev-hello-world",
+  "name": "my-dependency-test",
   "version": "1.0.0",
-  "description": "Hola putitos",
+  "description": "Mi primera dependencia en npm",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-veliz/zilev-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniel-veliz/zilev-hello-world/issues"
+  },
+  "homepage": "https://github.com/daniel-veliz/zilev-hello-world#readme"
 }
